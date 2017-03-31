@@ -4,7 +4,7 @@
 // Julian Drapaylo - 2017
 
 #import <Foundation/Foundation.h>
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface KRNNib : NSObject
 
